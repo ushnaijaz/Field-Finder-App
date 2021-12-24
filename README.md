@@ -1,5 +1,5 @@
 <h1 align="center">Field Finder App</h1>
-
+<h2>Semester Project for the course "Data Structures & Algorithms"- Spring 2021 </h2>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
